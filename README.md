@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/Superalgos/Superalgos)](https://github.com/Superalgos/Superalgos/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/superalgos?style=social)](https://twitter.com/superalgos)
 
-![Superalgos Charting Space](https://superalgos.org/img/photos/integrated-charting-space-supporting-custom-indicators-and-technical-studies.png)
+![Superalgos Charting Space](docs/assets/charting-space.png)
 
 > **Superalgos is a free, open-source crypto trading bot platform that allows you to visually design, backtest, and deploy advanced trading strategies.**
 
@@ -53,10 +53,10 @@ The client will run on your terminal and the GUI will launch on your default bro
 
 ## 📸 Screenshots
 
-![Visual Strategy Designer](https://superalgos.org/img/photos/node-based-visual-definition-of-trading-systems-supporting-multiple-strategies.png)
+![Visual Strategy Designer](docs/assets/visual-designer.png)
 _Node-based visual definition of trading systems supporting multiple strategies._
 
-![Strategy Backtesting and Debugging](https://superalgos.org/img/photos/superalgos-provides-visual-feedback-for-every-action-of-the-trading-bot.png)
+![Strategy Backtesting and Debugging](docs/assets/visual-debugger.png)
 _Superalgos provides visual feedback for every action of the trading bot._
 
 ## 📚 Documentation
