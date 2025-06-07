@@ -1,0 +1,20 @@
+title: Superalgos Documentation
+description: >-
+  The official documentation for Superalgos, the open-source crypto trading bot platform.
+  Learn how to design, test, and deploy automated trading strategies.
+url: "https://SuperalgosDev.github.io"
+baseurl: "/superalgos"
+
+# SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Social
+social:
+  name: Superalgos
+  links:
+    - https://twitter.com/superalgos
+    - https://github.com/SuperalgosDev/superalgos 
