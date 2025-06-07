@@ -5,9 +5,11 @@
 [![Release](https://img.shields.io/github/v/release/Superalgos/Superalgos)](https://github.com/Superalgos/Superalgos/releases/latest)
 [![Twitter Follow](https://img.shields.io/twitter/follow/superalgos?style=social)](https://twitter.com/superalgos)
 
-> **Superalgos is a free, open-source crypto trading bot platform that allows you to visually design, backtest, and deploy trading strategies.**
+![Superalgos Charting Space](https://superalgos.org/img/photos/integrated-charting-space-supporting-custom-indicators-and-technical-studies.png)
 
-![Superalgos Interface Overview](https://a.fsdn.com/con/app/proj/superalgos.mirror/screenshots/1.PNG/max/max/1)
+> **Superalgos is a free, open-source crypto trading bot platform that allows you to visually design, backtest, and deploy advanced trading strategies.**
+
+Superalgos is a community-owned, token-incentivized open-source project building a decentralized social trading network to crowdsource superpowers for retail traders. We are an open and welcoming community nurtured and incentivized with the project's native Superalgos (SA) Token, which is distributed among contributors to accelerate development.
 
 ## 🚀 Quick Start
 
@@ -46,14 +48,16 @@ The client will run on your terminal and the GUI will launch on your default bro
 - 🌍 **Multi-Exchange Support**: Trade on Binance, KuCoin, and many other exchanges.
 - 📊 **Community-Driven**: Access a vast library of community-built strategies and indicators.
 - 🤖 **AI Modules**: Integrate TensorFlow and other AI/ML models into your strategies.
+- **Live Trading**: Deploy your strategies to trade live on multiple exchanges with robust order execution.
+- **Community-Driven**: Leverage open-source strategies and contribute to a global community.
 
 ## 📸 Screenshots
 
-![Superalgos Visual Scripting](https://superalgos.org/img/photos/superalgos-visual-scripting-_n-min.png)
-_Visual Strategy Designer_
+![Visual Strategy Designer](https://superalgos.org/img/photos/node-based-visual-definition-of-trading-systems-supporting-multiple-strategies.png)
+_Node-based visual definition of trading systems supporting multiple strategies._
 
-![Superalgos Backtesting](https://superalgos.org/img/photos/superalgos-backtesting-2-min.png)
-_Strategy Backtesting and Debugging_
+![Strategy Backtesting and Debugging](https://superalgos.org/img/photos/superalgos-provides-visual-feedback-for-every-action-of-the-trading-bot.png)
+_Superalgos provides visual feedback for every action of the trading bot._
 
 ## 📚 Documentation
 
